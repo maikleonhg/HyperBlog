@@ -1,3 +1,9 @@
 Hola amiguitos
 Mi nombre es Miguel Alejandro Leon y tengo 21 anos
-ademas naci en Mexico ciudad Hidalgo
+ademas naci en ciudad Hidalgo
+
+Haciendo pruebas con el reset y agregando cositas
+para poder hacer ejercicios
+
+Aplicando reset --soft para ver como funciona, ademas elimino
+(Mexico)
