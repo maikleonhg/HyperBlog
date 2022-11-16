@@ -7,5 +7,7 @@ para poder hacer ejercicios
 
 Master 1
 
+Master 2
+
 Aplicando reset --soft para ver como funciona, ademas elimino
 (Mexico)
