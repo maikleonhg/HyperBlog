@@ -5,5 +5,7 @@ ademas naci en ciudad Hidalgo
 Haciendo pruebas con el reset y agregando cositas
 para poder hacer ejercicios
 
+Master 1
+
 Aplicando reset --soft para ver como funciona, ademas elimino
 (Mexico)
